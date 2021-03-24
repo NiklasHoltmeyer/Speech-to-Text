@@ -14,7 +14,7 @@ setup(
     description='',
     #long_description=readme,
     author='Niklas Holtmeyer',
-    url='https://github.com/NiklasHoltmeyer/',
+    url='https://github.com/NiklasHoltmeyer/Speech-to-Text/tree/master/Dataset',
     license=license,
     packages=find_packages(exclude=('tests', 'docs')),
     install_requires=[

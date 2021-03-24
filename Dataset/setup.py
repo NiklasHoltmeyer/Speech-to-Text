@@ -9,7 +9,7 @@ with open('LICENSE') as f:
     #readme = f.read()
     
 setup(
-    name='DeepSTT',
+    name='DeepSTT-Dataset',
     version='0.1.0',
     description='',
     #long_description=readme,
